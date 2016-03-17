@@ -3,10 +3,5 @@
 
 https://scriptotek.github.io/2016-03-17-BS/
 
-Use at own risk.
-
-To be continued.
-
-Later.
-
-`This is a code block`
+For regulære uttrykk:
+http://www.regexr.com/
